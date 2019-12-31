@@ -90,8 +90,9 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 
 >> I don't know if you need me to put some python code here or something, or if Metis just wants the answer. But anyway, the calculation is below (and I can come back later and put in Python code if needed):
 
+>> Given that you are some kind of twin:
+
 >> Probability of being an identical twin = (Prior Prob. of being an identical twin)/(Prior Prob. of being some kind of twin)
-(given you are some kind of twin)
 
 >> Probability Elvis was identical twin = (1/300)/((1/125)+(1/300))
 
