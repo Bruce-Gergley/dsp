@@ -94,8 +94,11 @@ Probability of being an identical twin = (Prior Prob. of being an identical twin
 (given you are some kind of twin)
 
 Probability Elvis was identical twin = (1/300)/((1/125)+(1/300))
+
 Probability Elvis was identical twin = (5/1500)/((12/1500)+(5/1500))
+
 Probability Elvis was identical twin = (5/1500)/(17/1500)
+
 Probability Elvis was identical twin = 5/17 = Approximately 29.4%
 
 ---
