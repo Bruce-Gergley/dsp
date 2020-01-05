@@ -107,7 +107,15 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Bruce's Answer:
+
+>> I had never heard of frequentist statistics so I looked it up on Wikipedia.
+
+>> https://en.wikipedia.org/wiki/Frequentist_probability
+
+>> From the description, it does not look like it will make a huge difference for most pratical statistics questions.  It would not affect how one finds the mean, median, standard deviation, and so on of a sample.
+
+>> Bayes theorem would just be more convenient to use in a situation where you have well-defined prior probabilities and then get some new information and you want to calculate the posterior probability distribution.  And frequentist approaches would be more convenient to use for ordinary statistical hypothesis testing.
 
 ---
 
